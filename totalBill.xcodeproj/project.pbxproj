@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		E01A09CA28B8D230008782AB /* TotalBillView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E01A09C928B8D230008782AB /* TotalBillView.swift */; };
+		E01A09CC28B8E312008782AB /* PersonsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E01A09CB28B8E312008782AB /* PersonsView.swift */; };
 		E06419D728B6397E0093F8BF /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E06419D628B6397E0093F8BF /* AppDelegate.swift */; };
 		E06419D928B6397E0093F8BF /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E06419D828B6397E0093F8BF /* SceneDelegate.swift */; };
 		E06419DB28B6397E0093F8BF /* MainViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E06419DA28B6397E0093F8BF /* MainViewController.swift */; };
@@ -15,6 +17,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		E01A09C928B8D230008782AB /* TotalBillView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TotalBillView.swift; sourceTree = "<group>"; };
+		E01A09CB28B8E312008782AB /* PersonsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PersonsView.swift; sourceTree = "<group>"; };
 		E06419D328B6397E0093F8BF /* totalBill.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = totalBill.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E06419D628B6397E0093F8BF /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		E06419D828B6397E0093F8BF /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -57,6 +61,8 @@
 				E06419D628B6397E0093F8BF /* AppDelegate.swift */,
 				E06419D828B6397E0093F8BF /* SceneDelegate.swift */,
 				E06419DA28B6397E0093F8BF /* MainViewController.swift */,
+				E01A09C928B8D230008782AB /* TotalBillView.swift */,
+				E01A09CB28B8E312008782AB /* PersonsView.swift */,
 				E06419DF28B639800093F8BF /* Assets.xcassets */,
 				E06419E128B639800093F8BF /* LaunchScreen.storyboard */,
 				E06419E428B639800093F8BF /* Info.plist */,
@@ -134,6 +140,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E01A09CA28B8D230008782AB /* TotalBillView.swift in Sources */,
+				E01A09CC28B8E312008782AB /* PersonsView.swift in Sources */,
 				E06419DB28B6397E0093F8BF /* MainViewController.swift in Sources */,
 				E06419D728B6397E0093F8BF /* AppDelegate.swift in Sources */,
 				E06419D928B6397E0093F8BF /* SceneDelegate.swift in Sources */,
